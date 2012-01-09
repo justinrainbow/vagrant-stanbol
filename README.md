@@ -6,6 +6,7 @@
 ``` sh
 git clone git://github.com/justinrainbow/vagrant-stanbol.git
 cd vagrant-stanbol
+git submodule update --init
 vagrant up
 ```
 
