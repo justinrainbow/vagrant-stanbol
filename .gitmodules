@@ -1,0 +1,3 @@
+[submodule "modules/stanbol"]
+	path = modules/stanbol
+	url = git://github.com/justinrainbow/puppet-stanbol.git
