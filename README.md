@@ -10,7 +10,7 @@ git submodule update --init
 vagrant up
 ```
 
-## Prerequists
+## Prerequisites
 
 ``` sh
 sudo gem install vagrant
